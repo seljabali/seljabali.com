@@ -1,5 +1,5 @@
 # Sami Eljabali
-![Logo](website/static/sami.png)
+![Logo](https://avatars2.githubusercontent.com/u/1254921?v=3&u=3f3df394ed0f2335b8dc7c52387c5a392fb5b193&s=400)
 A Bay Area Engineer focusing on Android lately. Personal projects include:
 
 - [Shows Me: A music event listing application.][showsmeapp]
@@ -15,6 +15,6 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 [Sonatype's `snapshots` repository][snap].
 [showsmeapp]: https://www.showsmeapp.com/
 [habibitime]: https://www.habibitime.com/
-[lelelelee]: https://www.googleplay.com/
+[lelelelee]: https://play.google.com/store/apps/details?id=com.lelelee.codingcamels
 [ya3ny]: https://www.ya3ny.com/
 [practice_problems]: http://www.github.com/

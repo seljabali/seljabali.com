@@ -13,7 +13,7 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 
 [showsmeapp]: https://www.showsmeapp.com/
 [habibitime]: https://www.habibitime.com/
-[lelelelee]: https://play.google.com/store/apps/details?id=com.lelelee.codingcamels
+[lelelee]: https://play.google.com/store/apps/details?id=com.lelelee.codingcamels
 [ya3ny]: https://www.ya3ny.com/
 [practice_problems]: http://www.github.com/
 [resume]: http://www.github.com/

@@ -1,6 +1,7 @@
 # Sami Eljabali
 ![Logo](https://avatars2.githubusercontent.com/u/1254921?v=3&u=3f3df394ed0f2335b8dc7c52387c5a392fb5b193&s=400)
-A Bay Area Engineer focusing on Android lately. Personal projects include:
+
+<br>A Bay Area Engineer focusing on Android lately. Personal projects include:
 
 - [Shows Me: A music event listing application.][showsmeapp]
 - [Ya3ny: A crowd sourced arabic urban dictionary.][ya3ny]

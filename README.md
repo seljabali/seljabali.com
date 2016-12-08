@@ -7,11 +7,10 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 - [Lelelee: A one night project for the fun of it.][lelelee]
 - [Practice Problems: A set of problems/projects I've solved for interview practice][practice_problems]
 
-- LinkedIn: www.linkedin.com/in/seljabali
-- Email: seljabali@gmail.com
-- [Resume][resume]
+<br> LinkedIn: www.linkedin.com/in/seljabali
+<br> Email: seljabali@gmail.com
+<br> [Resume][resume]
 
-[Sonatype's `snapshots` repository][snap].
 [showsmeapp]: https://www.showsmeapp.com/
 [habibitime]: https://www.habibitime.com/
 [lelelelee]: https://play.google.com/store/apps/details?id=com.lelelee.codingcamels

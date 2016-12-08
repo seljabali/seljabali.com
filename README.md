@@ -7,9 +7,9 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 - [Lelelee: A one night project for the fun of it.][lelelee]
 - [Practice Problems: A set of problems/projects I've solved for interview practice][practice_problems]
 
-<br> LinkedIn: www.linkedin.com/in/seljabali
-<br> Email: seljabali@gmail.com
-<br> [Resume][resume]
+<br>www.linkedin.com/in/seljabali
+<br>seljabali@gmail.com
+<br>[Resume][resume]
 
 [showsmeapp]: https://www.showsmeapp.com/
 [habibitime]: https://www.habibitime.com/

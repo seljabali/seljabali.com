@@ -9,7 +9,7 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 
 - LinkedIn: www.linkedin.com/in/seljabali
 - Email: seljabali@gmail.com
-- ![Resume](website/static/seljabali.pdf)
+- [Resume][resume]
 
 [Sonatype's `snapshots` repository][snap].
 [showsmeapp]: https://www.showsmeapp.com/
@@ -17,3 +17,4 @@ A Bay Area Engineer focusing on Android lately. Personal projects include:
 [lelelelee]: https://play.google.com/store/apps/details?id=com.lelelee.codingcamels
 [ya3ny]: https://www.ya3ny.com/
 [practice_problems]: http://www.github.com/
+[resume]: http://www.github.com/
